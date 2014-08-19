@@ -18,9 +18,6 @@
 #include <cstdlib>
 #include <iostream>
 #include <vector>
-#include "array.h"
-#include "list.h"
-#include "union_find.h"
 
 void test(int argc, char**argv);
 int main(int argc, char **argv){

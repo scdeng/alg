@@ -15,9 +15,7 @@
  *
  * =====================================================================================
  */
-
-#include "morris.h"
-#include "rbtree.h"
+#include "binaryTreeTraverse.h"
 #include <string>
 #include <iostream>
 using namespace std;
